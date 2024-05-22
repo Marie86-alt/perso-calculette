@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(207, 248, 248);
+}
+
+.container mt-5{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: rgb(5, 5, 93);
+}
+.card-body{
+    background-color: rgb(46, 43, 43);
+}
